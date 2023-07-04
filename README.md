@@ -10,4 +10,4 @@ Keywords: Healthcare equality, Telehealth care accessibility, Public health, E2S
 
 You can download this paper from: https://doi.org/10.1007/s43762-023-00092-z
 
-Please note the OD matrix is not included due the size of the file.
+Please note the OD matrix is not included due to the size of the file.
